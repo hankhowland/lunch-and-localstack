@@ -1,0 +1,13 @@
+{
+    "version": "0",
+    "id": "a2a13500-9ad4-f384-new-new",
+    "detail-type": "chad.joke.tell",
+    "source": "guzzle-dev",
+    "account": "188291258129",
+    "time": "2021-04-13T19:38:50Z",
+    "region": "us-west-1",
+    "resources": [],
+    "detail": {
+      "joke": "does it smell like updog in here"
+    }
+  }
